@@ -26,9 +26,7 @@ Users should be able to:
 ![](./screenshot.png)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://anle9650.github.io/static-job-listings-master/](https://anle9650.github.io/static-job-listings-master/)
 
 ## My process
 
